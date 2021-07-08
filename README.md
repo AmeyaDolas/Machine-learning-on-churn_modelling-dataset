@@ -1,4 +1,4 @@
-# Machine-learning-on-churn_modelling-dataset
+# Machine-learning-on-churn_modeling-dataset
 Data Science project where I applied most common Machine Learning algorithms on Churn_modelling dataset and then predicted the result for new input dataset cmtopredict.
 
 To see main dataset : click on cm.csv
