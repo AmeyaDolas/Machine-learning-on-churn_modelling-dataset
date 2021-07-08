@@ -5,4 +5,4 @@ To see main dataset : click on cm.csv
 
 To see input dataset for which output is to be predicted : Click on cmtopredict.csv
 
-To see the Python coding file : Click on Machine-Learning-on-churn_modelling_dataset
+To see the Python coding file : Click on Machine Learning on Churn_modelling_dataset
